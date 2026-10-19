@@ -1,0 +1,37 @@
+{
+  "cameras": [
+    {
+      "name": "c1",
+      "position": [
+        334,
+        349
+      ],
+      "orientation": 235,
+      "fov": 86,
+      "range_radius": 275,
+      "tilt": 2
+    },
+    {
+      "name": "c2",
+      "position": [
+        400,
+        350
+      ],
+      "orientation": 307,
+      "fov": 89,
+      "range_radius": 280,
+      "tilt": 3
+    },
+    {
+      "name": "c3",
+      "position": [
+        737,
+        345
+      ],
+      "orientation": 217,
+      "fov": 70,
+      "range_radius": 311,
+      "tilt": 1
+    }
+  ]
+}
